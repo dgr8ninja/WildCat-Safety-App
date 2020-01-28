@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../../assets/wildcat3.png'
-import './home.scss'
+import './login.scss'
 import LogIn from '../../components/login/login';
 
 

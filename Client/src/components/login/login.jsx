@@ -47,10 +47,10 @@ class LogIn extends React.Component{
             <div class="signup">
             <div class="signup-connect">
               <h1>Register Your WildCat Safety Account</h1>
-              <a href="#" class="btn btn-social btn-facebook"><i class="fa fa-facebook"></i> Sign in with Facebook</a>
-              <a href="#" class="btn btn-social btn-twitter"><i class="fa fa-twitter"></i> Sign in with Twitter</a>
-              <a href="#" class="btn btn-social btn-google"><i class="fa fa-google"></i> Sign in with Google</a>
-              <a href="#" class="btn btn-social btn-linkedin"><i class="fa fa-linkedin"></i> Sign in with Linkedin</a>
+              <a href="https://www.facebook.com/" class="btn btn-social btn-facebook"><i class="fa fa-facebook"></i> Sign in with Facebook</a>
+              <a href="https://twitter.com/" class="btn btn-social btn-twitter"><i class="fa fa-twitter"></i> Sign in with Twitter</a>
+              <a href="https://www.google.com" class="btn btn-social btn-google"><i class="fa fa-google"></i> Sign in with Google</a>
+              <a href="https://www.linkedin.com/" class="btn btn-social btn-linkedin"><i class="fa fa-linkedin"></i> Sign in with Linkedin</a>
             </div>
             <div class="signup-classic">
               <h2>Or use the classical way</h2>
