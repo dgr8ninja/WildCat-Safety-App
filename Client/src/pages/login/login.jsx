@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../../assets/wildcat3.png'
 import './login.scss'
-import LogIn from '../../components/login/login';
+import Login from '../../components/login/login';
 
 
 class HomePage extends React.Component{
@@ -13,7 +13,7 @@ class HomePage extends React.Component{
             </div>
             <div className='homepage'>
 
-                <LogIn/>
+                <Login/>
 
             </div>
             </>
